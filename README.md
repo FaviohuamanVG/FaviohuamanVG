@@ -23,5 +23,4 @@ Soy un desarrollador apasionado por el ecosistema de **Java** y la creación de 
 ---
 
 ### 📫 Connect with me:
-[LinkedIn]([https://www.linkedin.com/in/favio-anderson-huaman-tirado-792616275/]) | [Email](mailto:thuamantirado2006@gmail.com)
-
+[LinkedIn](https://www.linkedin.com/in/favio-anderson-huaman-tirado-792616275/) | [Email](mailto:thuamantirado2006@gmail.com)
